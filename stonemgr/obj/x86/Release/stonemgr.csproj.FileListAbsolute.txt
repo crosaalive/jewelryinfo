@@ -1,0 +1,17 @@
+C:\Users\acer\documents\visual studio 2010\Projects\stonemgr\stonemgr\bin\Release\stonemgr.exe
+C:\Users\acer\documents\visual studio 2010\Projects\stonemgr\stonemgr\bin\Release\stonemgr.pdb
+C:\Users\acer\documents\visual studio 2010\Projects\stonemgr\stonemgr\bin\Release\mysql.data.dll
+C:\Users\acer\documents\visual studio 2010\Projects\stonemgr\stonemgr\obj\x86\Release\stonemgr.addStone.resources
+C:\Users\acer\documents\visual studio 2010\Projects\stonemgr\stonemgr\obj\x86\Release\stonemgr.stoneList.resources
+C:\Users\acer\documents\visual studio 2010\Projects\stonemgr\stonemgr\obj\x86\Release\stonemgr.Login.resources
+C:\Users\acer\documents\visual studio 2010\Projects\stonemgr\stonemgr\obj\x86\Release\stonemgr.MainForm.resources
+C:\Users\acer\documents\visual studio 2010\Projects\stonemgr\stonemgr\obj\x86\Release\stonemgr.Properties.Resources.resources
+C:\Users\acer\documents\visual studio 2010\Projects\stonemgr\stonemgr\obj\x86\Release\stonemgr.searchStone.resources
+C:\Users\acer\documents\visual studio 2010\Projects\stonemgr\stonemgr\obj\x86\Release\stonemgr.showAll.resources
+C:\Users\acer\documents\visual studio 2010\Projects\stonemgr\stonemgr\obj\x86\Release\stonemgr.csproj.GenerateResource.Cache
+C:\Users\acer\documents\visual studio 2010\Projects\stonemgr\stonemgr\obj\x86\Release\stonemgr.exe
+C:\Users\acer\documents\visual studio 2010\Projects\stonemgr\stonemgr\obj\x86\Release\stonemgr.pdb
+C:\Users\acer\documents\visual studio 2010\Projects\stonemgr\stonemgr\obj\x86\Release\stonemgr.addUser.resources
+C:\Users\acer\documents\visual studio 2010\Projects\stonemgr\stonemgr\obj\x86\Release\stonemgr.auth.resources
+C:\Users\acer\documents\visual studio 2010\Projects\stonemgr\stonemgr\obj\x86\Release\stonemgr.group.resources
+C:\Users\acer\Documents\Visual Studio 2010\Projects\stonemgr\stonemgr\obj\x86\Release\stonemgr.csprojResolveAssemblyReference.cache
